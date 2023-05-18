@@ -23,7 +23,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
+I am a Web Developer from France.
 
 - :telescope: I'm a Web Developer and I work mainly with Vue, Typescript et NodeJS.
 
