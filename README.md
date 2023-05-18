@@ -67,5 +67,5 @@ I am a Web Developer from France.
 
 ### :writing_hand: Blog Posts :
 
-
+- [Les Délices du Campus](https://www.iotactile.com/articles/les-delices-du-campus-egeivkuiqinut5d9siad) - This is the last project of my training, an e-commerce site for our training centre
 
