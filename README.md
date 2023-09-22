@@ -25,7 +25,7 @@
 
 I am a Web Developer from France.
 
-- :telescope: I'm a Web Developer and I work mainly with Vue, Typescript et NodeJS.
+- :telescope: I'm a Web Developer and I work mainly with Vue, Typescript and NodeJS.
 
 - :seedling: I love discovering new things around tech and hardware.
 
