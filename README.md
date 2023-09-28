@@ -43,6 +43,7 @@ I am a Web Developer from France.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="NuxtJS" alt="NuxtJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -67,5 +68,5 @@ I am a Web Developer from France.
 
 ### :writing_hand: Blog Posts :
 
-- [Les Délices du Campus](https://www.iotactile.com/articles/les-delices-du-campus-egeivkuiqinut5d9siad) - This is the last project of my training, an e-commerce site for our training centre
+- [Dice](https://www.iotactile.com/articles/dice-un-jeu-de-lancer-de-des-ultmse4tn1dfnmdbh5cg) - This is the first multiplayer game on my gaming site
 
