@@ -68,5 +68,5 @@ I am a Web Developer from France.
 
 ### :writing_hand: Blog Posts :
 
-- [Dice](https://www.iotactile.com/articles/dice-un-jeu-de-lancer-de-des-ultmse4tn1dfnmdbh5cg) - This is the first multiplayer game on my gaming site
+- [Dice](https://www.iotactile.com/articles/refonte-de-mon-site-et-du-jeu-dice-08t8nxog23epplv7k8k1) - Redesign of the iotactile.games website and the Dice game
 
